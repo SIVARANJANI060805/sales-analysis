@@ -1,1 +1,3 @@
-# sales-analysis
+In this task, I worked with a CSV file (sales.csv) that contains sales data, such as product names, months, and sales amounts. My goal is to analyze this data using Python and Pandas to understand sales patterns and create useful charts.
+First, I load the CSV file into Python using Pandas. After loading the data, it will perform different types of analysis—like finding total sales for each product or total sales for each month. I done this easily using functions like groupby() and sum().
+Once the analysis is done, it will create visual charts such as bar charts or line charts to clearly show the results. These charts will help me to understand which product sold the most, which month had the highest sales, and overall sales trends.
